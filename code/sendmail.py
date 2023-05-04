@@ -14,7 +14,7 @@ town = 'town'
 zip = 'zip'
 state = 'state'
 
-with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
+with smtplib.SMTP_SSL('smtp.mail.ru', 465) as smtp:
 	smtp.login(EMAIL_ADDRESS, EMAIL_PASSWORD)
 	with open("test.txt") as fp:
 		line = fp.readline()
