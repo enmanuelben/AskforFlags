@@ -1,19 +1,22 @@
 AFGHANISTAN	info@afghanistan-un.org
 ALBANIA	mission.newyork@mfa.gov.al
-ALBANIA	albania.un@albania-un.org
-ALBANIA	exe_assistant@outlook.com
+ALBANIA	officeofthePR.Albania@mfa.gov.al
 ALGERIA	algeria@un.int
+ALGERIA	algeriamission.ny@gmail.com
 ANDORRA	contact@andorraun.org
 ANGOLA	theangolamission@angolaun.org
 ANTIGUA AND BARBUDA	unmission@ab.gov.ag
-ANTIGUA AND BARBUDA	ackley.peters@ab.gov.ag
+ANTIGUA AND BARBUDA	jackley.peters@ab.gov.ag
 ARGENTINA	enaun@mrecic.gov.ar
 ARMENIA	armenia@un.int
 AUSTRALIA	australia@un.int
+AUSTRALIA	australiaun@dfat.gov.au
 AUSTRIA	new-york-ov@bmeia.gv.at
 AZERBAIJAN	azerbaijan@un.int
+AZERBAIJAN	mission@azerbaijanun.org
 BAHAMAS	mission@bahamasny.com
 BAHRAIN	bahrain1@un.int
+BAHRAIN	newyork.mission@mofa.gov.bh
 BANGLADESH	bangladesh@un.int
 BANGLADESH	bdpmny@gmail.com
 BARBADOS	prun@foreign.gov.bb
@@ -23,46 +26,55 @@ BELGIUM	newyorkun@diplobel.fed.be
 BELIZE	blzun@belizemission.com
 BELIZE	blzun@aol.com
 BENIN	onu.newyork@gouv.bj
+BENIN	beninewyork@gmail.com
 BHUTAN	bhutanmission@pmbny.bt
 BOLIVIA	missionboliviaun@gmail.com
-BOLIVIA	prboliviaun@gmail.com
 BOSNIA AND HERZEGOVINA	bihun@mfa.gov.ba
 BOTSWANA	botswana@un.int
+BOTSWANA	botswanany@gmail.com
 BRAZIL	distri.delbrasonu@itamaraty.gov.br
 BRUNEI DARUSSALAM	brunei@un.int
+BRUNEI DARUSSALAM	bruneiunmission@protonmail.com
 BULGARIA	bulgaria@un.int
 BULGARIA	mission.newyork@mfa.bg
 BURKINA FASO	bfapm@un.int
+BURKINA FASO	miperfaso.ny@burkina-onu.org
 BURUNDI	ambabunewyork@yahoo.fr
 CABO VERDE	capeverde@un.int
+CABO VERDE	cvpm.unny@mnec.gov.cv
 CAMBODIA	cambodia@un.int
 CAMEROON	cameroon.mission@yahoo.com
 CANADA	canada.un@international.gc.ca
 CENTRAL AFRICAN REPUBLIC	repercaf.ny@gmail.com
-CENTRAL AFRICAN REPUBLIC	loungoulah1@yahoo.fr
 CHAD	chadmission.un@gmail.com
 CHILE	chile.un@minrel.gob.cl
 CHINA	chinesemission@yahoo.com
 COLOMBIA	colombia@colombiaun.org
 COMOROS	comoros@un.int
+COMOROS	comores.nu@gmail.com
 CONGO	congo@un.int
 CONGO	cgbrazzadel60@gmail.com
 COSTA RICA	contact@missioncrun.org
+COSTA RICA	contact.costaricamission@gmail.com
+COSTA RICA	miscr-onu@rree.go.cr
 CÔTE D'IVOIRE	cotedivoiremission@yahoo.com
 CROATIA	cromiss.un@mvep.hr
 CUBA	cuba_onu@cubanmission.com
-CYPRUS	mission@cyprusun.org
+CYPRUS	unmission@mfa.gov.cy
 CZECH REPUBLIC	un.newyork@embassy.mzv.cz
 DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA	dprk.un@verizon.net
 DEMOCRATIC REPUBLIC OF THE CONGO	missiondrc@gmail.com
 DENMARK	nycmis@um.dk
 DJIBOUTI	djibouti@nyct.net
-DOMINICA	domun@onecommonwealth.org
 DOMINICA	dominicaun@gmail.com
 DOMINICAN REPUBLIC	drun@un.int
+DOMINICAN REPUBLIC	drmun1114@gmail.com
 ECUADOR	ecuador@un.int
+ECUADOR	onunewyork@cancilleria.gob.ec
 EGYPT	mission.egypt@un.int
+EGYPT	mission@egyptmissionny.com
 EL SALVADOR	elsalvador@un.int
+EL SALVADOR	elsalvadorpmny@gmail.com
 EQUATORIAL GUINEA	info@equatorialguineaun.org
 ERITREA	general@eritreaun.org
 ESTONIA	mission.newyork@mfa.ee
@@ -79,23 +91,28 @@ GERMANY	info@new-york-un.diplo.de
 GHANA	ghanaperm@aol.com
 GREECE	grdel.un@mfa.gr
 GRENADA	grenada@un.int
+GRENADA	gmun@mofa.gov.gd
 GUATEMALA	onunewyork@minex.gob.gt
 GUINEA	missionofguinea.un@gmail.com
 GUINEA-BISSAU	guinebissauonu@gmail.com
 GUINEA-BISSAU	guinea-bissau@un.int
 GUYANA	guyana@un.int
+GUYANA	pmny@mission.gov.gy
 HAITI	mphonu.newyork@diplomatie.ht
 HONDURAS	Ny.honduras@hnun.org
 HUNGARY	hungaryun.ny@mfa.gov.hu
 ICELAND	unmission@mfa.is
 INDIA	india.newyorkpmi@mea.gov.in
-INDONESIA	ptri@indonesiamission-ny.org
+INDONESIA	ptri@indonesiaun.org
 IRAN	Iran@un.int
+IRAN	Iranunny@mfa.gov.ir
 IRAQ	iraq.mission@un.int
+IRAQ	Iraq.mission@iraqmission-un.com
 IRELAND	newyorkpmun@dfa.ie
 ISRAEL	uninfo@newyork.mfa.gov.il
 ITALY	info.italyun@esteri.it
 JAMAICA	jamaica@un.int
+JAMAICA	info.unmissionny@mfaft.gov.jm
 JAPAN	p-m-j@dn.mofa.go.jp
 JORDAN	missionun@jordanmissionun.com
 KAZAKHSTAN	unkazmission@gmail.com
@@ -103,13 +120,15 @@ KENYA	info@kenyaun.org
 KIRIBATI	kimission.newyork@mfa.gov.ki
 KUWAIT	kuwait@kuwaitmissionun.org
 KYRGYZSTAN	kyrgyzstan@un.int
+KYRGYZSTAN	Kyrgyzstan.un.ny@mfa.gov.kg
 LAO PEOPLE'S DEMOCRATIC REPUBLIC	lao.pr.ny@gmail.com
 LATVIA	mission.un-ny@mfa.gov.lv
 LEBANON	contact@lebanonun.org
 LESOTHO	lesothonewyork@gmail.com
 LIBERIA	Liberia@un.int
-LIBYA	info@libyanmission-un.org
-LIECHTENSTEIN	mission@nyc.llv.li
+LIBERIA	liberiamission@pmun.gov.lr
+LIBYA	mission@libya-un.gov.ly
+LIECHTENSTEIN	newyork@llv.li	
 LITHUANIA	lithuaniaun@gmail.com
 LITHUANIA	lithuania@un.int
 LUXEMBOURG	newyork.rp@mae.etat.lu
@@ -121,40 +140,46 @@ MALDIVES	info@maldivesmission.com
 MALI	miperma@malionu.com
 MALTA	malta-un.newyork@gov.mt
 MARSHALL ISLANDS	marshallislands@un.int
+MARSHALL ISLANDS	marshallislands@rmiunmission.org
 MAURITANIA	mauritaniamission@gmail.com
 MAURITIUS	mauritius@un.int
+MAURITIUS	mauritiusmissionnyc@gmail.com
 MEXICO	onuusr1@sre.gob.mx
 MICRONESIA	fsmun@fsmgov.org
 MONACO	monaco.un@gmail.com
 MONGOLIA	mongolianmission@twcmetrobiz.com
-MONTENEGRO	UN.NewYork@mfa.gov.me
+MONTENEGRO	unnewyork.montenegro@gmail.com
 MOROCCO	morocco.un@maec.gov.ma
 MOZAMBIQUE	mozambique@un.int
+MOZAMBIQUE	mozambique.unmission@gmail.com
 MYANMAR	myanmarmission@verizon.net
 NAMIBIA	namibia@un.int
+NAMIBIA	info@namibiaunmission.org
 NAURU	nauru@un.int
 NEPAL	nepal@un.int
 NEPAL	nepalmissionusa@gmail.com
 NETHERLANDS	nyv@minbuza.nl
 NEW ZEALAND	nzpmun@gmail.com
 NICARAGUA	nicaragua@un.int
+NICARAGUA	nicaraguaunny@yahoo.com
 NIGER	nigermission@ymail.com
 NIGERIA	permny@nigeriaunmission.org
 NORTH MACEDONIA	newyork@mfa.gov.mk
 NORWAY	delun@mfa.no
 OMAN	oman@un.int
+OMAN	omanmission.un@fm.gov.om
 PAKISTAN	pakistan@un.int
-PAKISTAN	pakmushir@gmail.com
+PAKISTAN	pakistan@pakun.org
 PALAU	mission@palauun.org
 PANAMA	emb@panama-un.org
 PAPUA NEW GUINEA	pngun@pngmission.org
 PARAGUAY	paraguay@un.int
-PARAGUAY	albertcg.nyc@gmail.com
-PARAGUAY	mariagloria@outlook.com
+PARAGUAY	paraguay.un@mre.gov.py
 PERU	onuper@unperu.org
 PHILIPPINES	newyork.pm@nypm.org
 POLAND	poland.un@msz.gov.pl
 PORTUGAL	portugal@un.int
+PORTUGAL	portugal.nu@mne.pt
 QATAR	pmun@mofa.gov.qa
 REPUBLIC OF KOREA	korea.un@mofa.go.kr
 REPUBLIC OF MOLDOVA	unmoldova@mfa.gov.md
@@ -165,22 +190,25 @@ RWANDA	ambanewyork@gmail.com
 SAINT KITTS AND NEVIS	sknmission@aol.com
 SAINT LUCIA	info@stluciamission.org
 SAINT VINCENT AND THE GRENADINES	svgmission@gmail.com
-SAMOA	samoanymission@outlook.com
+SAINT VINCENT AND THE GRENADINES	ambassadorassistantsvg@gmail.com
+SAMOA	samoa@samoanymission.ws
 SAN MARINO	sanmarinoun@gmail.com
 SAO TOME AND PRINCIPE	rdstppmun@gmail.com
-SAUDI ARABIA	saudi-mission@un.int
+SAUDI ARABIA	correspondence@ksamission-gov.net
 SENEGAL	senegal.mission@yahoo.fr
 SERBIA	info@serbiamissionun.org
+SERBIA	PR.office@serbiamissionun.org
 SEYCHELLES	seychellesmissionun@gmail.com
 SEYCHELLES	seychellesmission@sycun.org
-SIERRA LEONE	info@un.slembassy.gov.sl
-SIERRA LEONE	head.chancery@un.slembassy.gov.sl
+SIERRA LEONE	sierraleone@pmun.net
 SINGAPORE	singapore@un.int
-SINGAPORE	singpm_nyc@mfa.sg
+SINGAPORE	singaporeun@outlook.com
 SLOVAKIA	un.newyork@mzv.sk
 SLOVENIA	slovenia@un.int
+SLOVENIA	slomission.newyork@gov.si
 SOLOMON ISLANDS	simun@solomons.com
 SOMALIA	somalia@un.int
+SOMALIA	somalia@unmission.gov.so
 SOUTH AFRICA	pmun.newyork@dirco.gov.za
 SOUTH SUDAN	info@rssun-nyc.org
 SPAIN	Rep.nuevayorkonu@maec.es
@@ -188,19 +216,25 @@ SRI LANKA	prun.newyork@mfa.gov.lk
 SRI LANKA	mail@slmission.com
 SUDAN	sudan@sudanmission.org
 SURINAME	suriname@un.int
+SURINAME	suriname_un@proton.me
 SWEDEN	representationen.new-york@gov.se
-SWITZERLAND	nyc.vertretung-un@eda.admin.ch
-SYRIAN ARAB REPUBLIC	exesec.syria@gmail.com
+SWITZERLAND	newyork.un@eda.admin.ch
+SYRIAN ARAB REPUBLIC	syrianmission-ny@sar-un.org
 TAJIKISTAN	tajikistan@un.int
-TAJIKISTAN	tajikistanun@aol.com
+TAJIKISTAN	tajikistanunmission@gmail.com
 THAILAND	thailand@un.int
+THAILAND	thaimission.ny@gmail.com
 TIMOR-LESTE	timor-leste@un.int
-TOGO	togo.mission@yahoo.fr
+TIMOR-LESTE	timorleste.unmission@gmail.com
+TOGO	togo.mission@togounmission.org
 TONGA	tongaunmission@gmail.com
 TRINIDAD AND TOBAGO	tto@un.int
+TRINIDAD AND TOBAGO	pmun-ny@trinbago.org
 TUNISIA	tunisiamission@usa.com
+TUNISIA	tunisiaproffice@gmail.com
 TURKEY	tr-delegation.newyork@mfa.gov.tr
 TURKMENISTAN	turkmenistan@un.int
+TURKMENISTAN	turkmenistan.un@mfa.gov.tm
 TUVALU	tuvalumission.un@gmail.com
 UGANDA	admin@ugandaunny.com
 UKRAINE	uno_us@mfa.gov.ua
@@ -216,6 +250,8 @@ VENEZUELA	misionvenezuelaonu@gmail.com
 VIETNAM	info@vietnam-un.org
 YEMEN	yemenmissionny@gmail.com
 ZAMBIA	zambia@un.int
+ZAMBIA	un@grz.gov.zm
 ZIMBABWE	zimnewyork@gmail.com
 HOLY SEE	office@holyseemission.org
 STATE OF PALESTINE	palestine@un.int
+ENMANUEL	enmanuel2307@gmail.com
